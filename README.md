@@ -1,7 +1,7 @@
 # printf Project
 ALX software enginner
 
-#Authors
+# Authors
 
-.itodoemmanuel
-.Fadesh31
+itodoemmanuel and
+Fadesh31
